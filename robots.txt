@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ozufaoti.github.io/FrK/sitemap_index.txt
+Sitemap: https://ozufaoti.github.io/FxR/sitemap_index.txt
+Sitemap: https://ozufaoti.github.io/ctR/sitemap_index.txt
+Sitemap: https://ozufaoti.github.io/jCk/sitemap_index.txt
